@@ -1,2 +1,2 @@
-# Keep-Alive
-A c# and unity project that spawns obstacles with increasing difficulty for player to dodge
+# Stay-Alive
+A C# and unity project that spawns obstacles for the player to dodge with increasing difficulty
